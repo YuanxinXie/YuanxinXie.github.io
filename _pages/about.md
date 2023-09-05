@@ -55,9 +55,20 @@ redirect_from:
   *   主要职责：1.协同多部门工作：协同宿州市水利局、文化和旅游局、农业农村局、安徽尚原规划公司、中铁第四勘察设计院集团有限公司参与宿州煤矿区EOD产业规划项目、多次前往项目现场开展实地调研、获取相关数据；2.撰写规划报告：产业规划基于城市诉求提出为什么要发展、基于城市现有设施提出为什么能发展、基于城市总体现状论述了发展的必要性。同时，使用了竞合分析、SWOT分析等方法突出产业设计的整体思考
 
 
-
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+校园经历
+======
+------
+* 本科阶段 2017.09-2021.06
+  *   1.浙江工商大学经济学院团委办公室助管
+  *   2.浙江工商大学科技创新协会干事
+  *   3.浙江工商大学经济学院学生会干事
+  *   4.浙江工商大学公寓楼管理员
+  *   5.班级生活委员、心理委员、科创委员
+* 硕士阶段 2021.09-2024.03
+  *  1.贵州研究生会网宣部副部长
+  *  2.同济大学新媒体副部长
+  *  3.同济大学经管学院党委办公室助管
+  *  4.共青团同济大学委员会办公室助管
 
 项目经历
 ======
