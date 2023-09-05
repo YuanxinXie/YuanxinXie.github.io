@@ -83,25 +83,24 @@ redirect_from:
 个人主要荣誉
 ======
 ------
-2018.10-2020.10      |国家励志奖学金（2次）、浙江省政府奖学金
-2018.05-2019.05      |综合二等奖学金（2次），优秀团员（2次）
-2018.12              |浙江工商大学暑期社会实践先进个人，优秀调研报告（3篇）
-2018.12-2019.12      |全国大中专学生“三下乡”暑期社会实践“最具影响好项目”核心成员（2次）
-2019.04              |全国市场分析大赛浙江省三等奖
-2019.05              |第一届全国新零售买手创业实战大赛浙江省一等奖
-2019.05              |浙江工商大学“自强之星”提名奖
-2020.05              |浙江工商大学 综合一等奖学金（2次）
-2021.03              |浙江省优秀毕业生、浙江工商大学“三好”学生
-2023.05              |第九届全国大学生能源经济学术创意大赛全国三等奖
+  2018.10-2020.10      |国家励志奖学金（2次）、浙江省政府奖学金
+  2018.05-2019.05      |综合二等奖学金（2次），优秀团员（2次）
+  2018.12              |浙江工商大学暑期社会实践先进个人，优秀调研报告（3篇）
+  2018.12-2019.12      |全国大中专学生“三下乡”暑期社会实践“最具影响好项目”核心成员（2次）
+  2019.04              |全国市场分析大赛浙江省三等奖
+  2019.05              |第一届全国新零售买手创业实战大赛浙江省一等奖
+  2019.05              |浙江工商大学“自强之星”提名奖
+  2020.05              |浙江工商大学 综合一等奖学金（2次）
+  2021.03              |浙江省优秀毕业生、浙江工商大学“三好”学生
+  2023.05              |第九届全国大学生能源经济学术创意大赛全国三等奖
 
-项目经历
+专业技能
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+------
+  *熟练使用CSMAR、Wind、同花顺iFind等财经数据库
+  *熟练运用秀米、微信公众平台、135编辑器、创可贴等新媒体网站
+  *熟练使用Chatgpt、Office、Stata、Eviews、Photoshop、Origin、Processon、镝数图表等应用
+
 
 Site-wide configuration
 ------
