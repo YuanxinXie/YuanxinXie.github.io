@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-* 同济大学 经济与管理学院 区域经济学 硕士 2021.09-2024.03
-* 中国科学技术大学 计算机科学与技术学院 计算机科学与技术 学士 2015.09-2019.07
+* 同济大学 经济与管理学院 金融学 硕士 2021.09-2024.03
+* 浙江工商大学 经济学院 经济学 学士 2017.09-2021.06
 
 工作经历
 ======
-* 深圳字节跳动科技有限公司 产品与工程架构部 研发工程师 2019.07-2020.04
-* 广西壮族自治区南宁市发展与改革委员会 经贸与区域科 行政助理 2022.07-2022.08
+* 雄韬股份上海氢雄信息科技有限公司 电力电子部 团队助理 2021.11-2022.05
+* 广东省能源集团贵州有限公司 投资发展部 并购实习生 2022.06-2022.07
+* 华创证券 营业部 证券实习生 2022.07-2022.09
+* 上海科学学研究所 统计评价研究室 研究员助理 2023.04-2023.08
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
