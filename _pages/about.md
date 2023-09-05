@@ -8,13 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-* 同济大学     经济与管理学院     金融学     硕士     2021.09-2024.03  上海
-* 浙江工商大学     经济学院     经济学     学士     2017.09-2021.06  杭州
-
-
-教育经历
-======
-------
 * <div id="expand-box-header">
     <span style="float: left; font-weight: bold">同济大学</span> 
     <span style="float: right;">2021年09月 - 2024年03月</span><br>
@@ -26,6 +19,7 @@ redirect_from:
     <span style="float: right;">2017年09月 - 2021年06月</span><br>
     <span style="float: left">经济学院  经济学  学士</span> 
     <span style="float: right;">杭州</span><br> </div>
+
 
 
 工作经历
