@@ -18,9 +18,21 @@ redirect_from:
 * 华创证券 营业部 证券实习生 2022.07-2022.09
 * 上海科学学研究所 统计评价研究室 研究员助理 2023.04-2023.08
 
+项目经历
+======
+* 主持浙江省基金项目1项、校级创新项目1项 2019.11-2021.03
+  （资助课题为《两山”理论在浙江省乡村振兴中的践行效果研究: 以首批美丽乡村示范县为例》，发表学术论文1篇，校级优秀社会实践报告2篇（项目编号：2019R408032）
+* 四川省成都市“俄乌冲突”政府咨询报告 2022.04-2022.08
+  （1.政策梳理与数据搜集：通过相关国内外政府网站、智库官网、知名学者的主页梳理战争爆发的背景和现状、并在Wind、OECD、世界银行等网站上搜集相关的产业发展数据，为撰写相关报告提供证据；2.报告撰写：分析俄乌冲突对世界以及中国的影响，并据此分析未来我国在能源板块的产业布局，形成咨询报告1份）
+* 安徽省宿州市塌陷区EOD产业规划项目 同济大学 2023.03-2023.09
+  （1.协同多部门工作：协同宿州市水利局、文化和旅游局、农业农村局、安徽尚原规划公司、中铁第四勘察设计院集团有限公司参与宿州煤矿区EOD产业规划项目、多次前往项目现场开展实地调研、获取相关数据；2.撰写规划报告：产业规划基于城市诉求提出为什么要发展、基于城市现有设施提出为什么能发展、基于城市总体现状论述了发展的必要性。同时，使用了竞合分析、SWOT分析等方法突出产业设计的整体思考）
+
+
+
+
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-工作经历
+项目经历
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
