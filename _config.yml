@@ -9,7 +9,7 @@
 locale                   : "zh-CN"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "龙先鹏"
+name                     : &name "谢远鑫"
 description              : &description "personal description"
 url                      : https://yuanxinxie.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "龙先鹏"
-  avatar           : "证件照300kb.jpg"
-  bio              : "同济大学-区域经济学硕士"
-  location         : "广西·防城港"
+  name             : "谢远鑫"
+  avatar           : "同济大学-谢远鑫.jpg"
+  bio              : "同济大学-金融学硕士"
+  location         : "贵州·毕节市"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
