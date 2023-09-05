@@ -11,9 +11,9 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "龙先鹏"
 description              : &description "personal description"
-url                      : https://YuanxinXie.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yuanxinxie.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "YuanxinXie/YuanxinXie.github.io"
+repository               : "yuanxinxie/yuanxinxie.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
